@@ -1,0 +1,11 @@
+{
+  "name": "loops_arrays",
+  "version": "1.0.0",
+  "description": "Loops and Arrays ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Izquierdo",
+  "license": "ISC"
+}
