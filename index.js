@@ -122,3 +122,5 @@ const numeros_reduce = [1, 2, 3, 4, 5, 6];
     let sum = numeros_reduce.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
 
 console.log(sum); //output 21
+
+console.log("Comentario nuevo");
